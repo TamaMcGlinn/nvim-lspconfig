@@ -431,6 +431,10 @@ require'lspconfig'.als.setup{}
   ```lua
   { "ada" }
   ```
+  - `lspinfo` : 
+  ```lua
+  see source file
+  ```
   - `root_dir` : 
   ```lua
   util.root_pattern("Makefile", ".git", "*.gpr", "*.adc")
